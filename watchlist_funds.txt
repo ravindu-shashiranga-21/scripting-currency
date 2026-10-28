@@ -1,0 +1,13 @@
+﻿# Funds / ETFs only
+# --- Funds / ETFs ---
+SPY
+QQQ
+VTI
+IWM
+GLD
+SLV
+TLT
+ARKK
+NIFTYBEES.NS
+GOLDBEES.NS
+BANKBEES.NS

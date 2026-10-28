@@ -1,0 +1,5 @@
+# generated exports (regenerate with: python tv_export.py --watchlist watchlist.txt --intervals all)
+out/
+*.log
+__pycache__/
+*.pyc

@@ -1,0 +1,64 @@
+# One symbol per line. Edit freely. "#" starts a comment.
+# Bare symbol -> tries Binance first, then Yahoo Finance.
+# Force a source with BINANCE:SYMBOL or YAHOO:SYMBOL.
+# Find Yahoo symbols at https://finance.yahoo.com (the ticker shown in the URL).
+
+# --- Crypto (Binance) ---
+ADAUSDT
+BTCUSDT
+ETHUSDT
+SOLUSDT
+BNBUSDT
+XRPUSDT
+DOGEUSDT
+COMPUSDT
+
+# --- Crypto vs USD (Yahoo) ---
+BTC-USD
+ETH-USD
+
+# --- US stocks ---
+AAPL
+MSFT
+NVDA
+TSLA
+AMZN
+GOOGL
+META
+
+# --- Indian stocks (NSE = .NS, BSE = .BO) ---
+RELIANCE.NS
+TCS.NS
+HDFCBANK.NS
+INFY.NS
+
+# --- Indices ---
+^GSPC
+^NDX
+^DJI
+^NSEI
+^NSEBANK
+
+# --- Forex ---
+EURUSD=X
+GBPUSD=X
+USDJPY=X
+USDINR=X
+
+# --- Commodities (futures) ---
+GC=F
+SI=F
+CL=F
+
+# --- Funds / ETFs ---
+SPY
+QQQ
+VTI
+IWM
+GLD
+SLV
+TLT
+ARKK
+NIFTYBEES.NS
+GOLDBEES.NS
+BANKBEES.NS
